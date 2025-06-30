@@ -28,12 +28,11 @@ jobs:
 
       - name: Build project
         run: yarn build-only
-        working-directory: drm-plot/
 
       - name: Store final build
         uses: actions/upload-pages-artifact@v3
         with:
-          path: drm-plot/dist
+          path: dist
   deploy:
     environment:
       name: github-pages
