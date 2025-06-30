@@ -8,7 +8,8 @@ defineProps<{
   <div class="greetings">
     <h1 class="green">steerin-drm-plot</h1>
     <h3>
-      Paste here records as retrieved by DRM's /getRecords. If there are any Full Speaking Events, they'll get plotted here.
+      Paste here records as retrieved by DRM's /getRecords. If there are any Full Speaking Events,
+      they'll get plotted here.
     </h3>
   </div>
 </template>
