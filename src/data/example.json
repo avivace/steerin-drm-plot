@@ -1,0 +1,179 @@
+[
+  {
+    "id": "m3YIwJcBTCFTK6VRgWDW",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273472487,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-general_intercom\",\"roomSid\":null,\"speakerId\":\"PA_veNXcVXQZRMw\",\"speakerName\":\"r.aydin\",\"unmuteTimeMillis\":1751273431343,\"muteTimeMillis\":1751273472477,\"durationMillis\":41134,\"speakingDurationMillis\":32846,\"mergedSpeakingDurationMillis\":39648,\"speakingFragments\":[{\"startTimeMillis\":1751273432808,\"stopTimeMillis\":1751273433608},{\"startTimeMillis\":1751273434008,\"stopTimeMillis\":1751273435611},{\"startTimeMillis\":1751273436012,\"stopTimeMillis\":1751273440020},{\"startTimeMillis\":1751273440415,\"stopTimeMillis\":1751273442821},{\"startTimeMillis\":1751273443219,\"stopTimeMillis\":1751273444823},{\"startTimeMillis\":1751273445626,\"stopTimeMillis\":1751273446424},{\"startTimeMillis\":1751273446826,\"stopTimeMillis\":1751273449628},{\"startTimeMillis\":1751273450030,\"stopTimeMillis\":1751273450430},{\"startTimeMillis\":1751273451231,\"stopTimeMillis\":1751273452834},{\"startTimeMillis\":1751273453234,\"stopTimeMillis\":1751273458039},{\"startTimeMillis\":1751273458840,\"stopTimeMillis\":1751273461242},{\"startTimeMillis\":1751273461642,\"stopTimeMillis\":1751273464045},{\"startTimeMillis\":1751273464448,\"stopTimeMillis\":1751273465654},{\"startTimeMillis\":1751273466450,\"stopTimeMillis\":1751273472456}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751273432808,\"stopTimeMillis\":1751273472456}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "lXYHwJcBTCFTK6VR3VmA",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273430419,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-general_intercom\",\"roomSid\":null,\"speakerId\":\"PA_iBKa2b8iL94o\",\"speakerName\":\"a.vivace\",\"unmuteTimeMillis\":1751273403240,\"muteTimeMillis\":1751273430409,\"durationMillis\":27169,\"speakingDurationMillis\":22835,\"mergedSpeakingDurationMillis\":24830,\"speakingFragments\":[{\"startTimeMillis\":1751273404374,\"stopTimeMillis\":1751273406372},{\"startTimeMillis\":1751273406774,\"stopTimeMillis\":1751273413582},{\"startTimeMillis\":1751273413982,\"stopTimeMillis\":1751273415183},{\"startTimeMillis\":1751273415585,\"stopTimeMillis\":1751273419604},{\"startTimeMillis\":1751273419991,\"stopTimeMillis\":1751273425196},{\"startTimeMillis\":1751273425600,\"stopTimeMillis\":1751273429204}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751273404374,\"stopTimeMillis\":1751273429204}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "UnYHwJcBTCFTK6VRclUh",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273402931,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-general_intercom\",\"roomSid\":null,\"speakerId\":\"PA_iBKa2b8iL94o\",\"speakerName\":\"a.vivace\",\"unmuteTimeMillis\":1751273402796,\"muteTimeMillis\":1751273402922,\"durationMillis\":126,\"speakingDurationMillis\":0,\"mergedSpeakingDurationMillis\":0,\"speakingFragments\":[],\"mergedSpeakingFragments\":[],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "KHYHwJcBTCFTK6VRa1X9",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273401359,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-general_intercom\",\"roomSid\":null,\"speakerId\":\"PA_iBKa2b8iL94o\",\"speakerName\":\"a.vivace\",\"unmuteTimeMillis\":1751273401330,\"muteTimeMillis\":1751273401348,\"durationMillis\":18,\"speakingDurationMillis\":0,\"mergedSpeakingDurationMillis\":0,\"speakingFragments\":[],\"mergedSpeakingFragments\":[],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "DXYHwJcBTCFTK6VRZVU9",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273399631,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-general_intercom\",\"roomSid\":null,\"speakerId\":\"PA_veNXcVXQZRMw\",\"speakerName\":\"r.aydin\",\"unmuteTimeMillis\":1751273366077,\"muteTimeMillis\":1751273399621,\"durationMillis\":33544,\"speakingDurationMillis\":27711,\"mergedSpeakingDurationMillis\":31642,\"speakingFragments\":[{\"startTimeMillis\":1751273367522,\"stopTimeMillis\":1751273368724},{\"startTimeMillis\":1751273369125,\"stopTimeMillis\":1751273369925},{\"startTimeMillis\":1751273370727,\"stopTimeMillis\":1751273375533},{\"startTimeMillis\":1751273375934,\"stopTimeMillis\":1751273383947},{\"startTimeMillis\":1751273384345,\"stopTimeMillis\":1751273388350},{\"startTimeMillis\":1751273388753,\"stopTimeMillis\":1751273391556},{\"startTimeMillis\":1751273392359,\"stopTimeMillis\":1751273395639},{\"startTimeMillis\":1751273395959,\"stopTimeMillis\":1751273397963},{\"startTimeMillis\":1751273398366,\"stopTimeMillis\":1751273399164}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751273367522,\"stopTimeMillis\":1751273399164}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "xnYGwJcBTCFTK6VR204Y",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273364265,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-general_intercom\",\"roomSid\":null,\"speakerId\":\"PA_iBKa2b8iL94o\",\"speakerName\":\"a.vivace\",\"unmuteTimeMillis\":1751273341377,\"muteTimeMillis\":1751273364253,\"durationMillis\":22876,\"speakingDurationMillis\":15617,\"mergedSpeakingDurationMillis\":16020,\"speakingFragments\":[{\"startTimeMillis\":1751273342286,\"stopTimeMillis\":1751273351897},{\"startTimeMillis\":1751273352300,\"stopTimeMillis\":1751273358306}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751273342286,\"stopTimeMillis\":1751273358306}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "U3YGwJcBTCFTK6VReUNq",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273339259,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-general_intercom\",\"roomSid\":null,\"speakerId\":\"PA_veNXcVXQZRMw\",\"speakerName\":\"r.aydin\",\"unmuteTimeMillis\":1751273312574,\"muteTimeMillis\":1751273339249,\"durationMillis\":26675,\"speakingDurationMillis\":19624,\"mergedSpeakingDurationMillis\":22831,\"speakingFragments\":[{\"startTimeMillis\":1751273314249,\"stopTimeMillis\":1751273316252},{\"startTimeMillis\":1751273316654,\"stopTimeMillis\":1751273323462},{\"startTimeMillis\":1751273323863,\"stopTimeMillis\":1751273327868},{\"startTimeMillis\":1751273328670,\"stopTimeMillis\":1751273330270},{\"startTimeMillis\":1751273331072,\"stopTimeMillis\":1751273333075},{\"startTimeMillis\":1751273333875,\"stopTimeMillis\":1751273337080}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751273314249,\"stopTimeMillis\":1751273337080}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "73YFwJcBTCFTK6VRgjmm",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273276085,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-120.500\",\"roomSid\":null,\"speakerId\":\"PA_snes9Qw22Hxz\",\"speakerName\":\"a.karacelik\",\"unmuteTimeMillis\":1751273223902,\"muteTimeMillis\":1751273276076,\"durationMillis\":52174,\"speakingDurationMillis\":43279,\"mergedSpeakingDurationMillis\":48871,\"speakingFragments\":[{\"startTimeMillis\":1751273225800,\"stopTimeMillis\":1751273234611},{\"startTimeMillis\":1751273235012,\"stopTimeMillis\":1751273238216},{\"startTimeMillis\":1751273238621,\"stopTimeMillis\":1751273239423},{\"startTimeMillis\":1751273239825,\"stopTimeMillis\":1751273241424},{\"startTimeMillis\":1751273241824,\"stopTimeMillis\":1751273242225},{\"startTimeMillis\":1751273242624,\"stopTimeMillis\":1751273248633},{\"startTimeMillis\":1751273249036,\"stopTimeMillis\":1751273253841},{\"startTimeMillis\":1751273254242,\"stopTimeMillis\":1751273259050},{\"startTimeMillis\":1751273259451,\"stopTimeMillis\":1751273261053},{\"startTimeMillis\":1751273261454,\"stopTimeMillis\":1751273263856},{\"startTimeMillis\":1751273264258,\"stopTimeMillis\":1751273267891},{\"startTimeMillis\":1751273268666,\"stopTimeMillis\":1751273270265},{\"startTimeMillis\":1751273270666,\"stopTimeMillis\":1751273273069},{\"startTimeMillis\":1751273273470,\"stopTimeMillis\":1751273274671}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751273225800,\"stopTimeMillis\":1751273274671}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "XnYEwJcBTCFTK6VRuDJN",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273224285,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-120.500\",\"roomSid\":null,\"speakerId\":\"PA_YCsmDGW3QUu7\",\"speakerName\":\"a.vivace\",\"unmuteTimeMillis\":1751273185293,\"muteTimeMillis\":1751273224275,\"durationMillis\":38982,\"speakingDurationMillis\":31213,\"mergedSpeakingDurationMillis\":36842,\"speakingFragments\":[{\"startTimeMillis\":1751273186955,\"stopTimeMillis\":1751273188949},{\"startTimeMillis\":1751273189350,\"stopTimeMillis\":1751273190150},{\"startTimeMillis\":1751273190554,\"stopTimeMillis\":1751273192555},{\"startTimeMillis\":1751273192956,\"stopTimeMillis\":1751273194157},{\"startTimeMillis\":1751273194975,\"stopTimeMillis\":1751273197359},{\"startTimeMillis\":1751273197759,\"stopTimeMillis\":1751273202168},{\"startTimeMillis\":1751273202566,\"stopTimeMillis\":1751273206973},{\"startTimeMillis\":1751273207375,\"stopTimeMillis\":1751273210577},{\"startTimeMillis\":1751273210978,\"stopTimeMillis\":1751273215787},{\"startTimeMillis\":1751273216187,\"stopTimeMillis\":1751273217386},{\"startTimeMillis\":1751273217788,\"stopTimeMillis\":1751273218588},{\"startTimeMillis\":1751273218987,\"stopTimeMillis\":1751273219389},{\"startTimeMillis\":1751273220192,\"stopTimeMillis\":1751273223797}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751273186955,\"stopTimeMillis\":1751273223797}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "YnYEwJcBTCFTK6VRFSw2",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273182534,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-120.500\",\"roomSid\":null,\"speakerId\":\"PA_snes9Qw22Hxz\",\"speakerName\":\"a.karacelik\",\"unmuteTimeMillis\":1751273129232,\"muteTimeMillis\":1751273182523,\"durationMillis\":53291,\"speakingDurationMillis\":46470,\"mergedSpeakingDurationMillis\":52871,\"speakingFragments\":[{\"startTimeMillis\":1751273129278,\"stopTimeMillis\":1751273129674},{\"startTimeMillis\":1751273130474,\"stopTimeMillis\":1751273138484},{\"startTimeMillis\":1751273138883,\"stopTimeMillis\":1751273146092},{\"startTimeMillis\":1751273146491,\"stopTimeMillis\":1751273148494},{\"startTimeMillis\":1751273148898,\"stopTimeMillis\":1751273150897},{\"startTimeMillis\":1751273151297,\"stopTimeMillis\":1751273152900},{\"startTimeMillis\":1751273153300,\"stopTimeMillis\":1751273157305},{\"startTimeMillis\":1751273157705,\"stopTimeMillis\":1751273165315},{\"startTimeMillis\":1751273165716,\"stopTimeMillis\":1751273166116},{\"startTimeMillis\":1751273166516,\"stopTimeMillis\":1751273168919},{\"startTimeMillis\":1751273169321,\"stopTimeMillis\":1751273170523},{\"startTimeMillis\":1751273170922,\"stopTimeMillis\":1751273173729},{\"startTimeMillis\":1751273174127,\"stopTimeMillis\":1751273178937},{\"startTimeMillis\":1751273180136,\"stopTimeMillis\":1751273182149}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751273129278,\"stopTimeMillis\":1751273182149}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "Y3YDwJcBTCFTK6VROiQQ",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273126432,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-120.500\",\"roomSid\":null,\"speakerId\":\"PA_YCsmDGW3QUu7\",\"speakerName\":\"a.vivace\",\"unmuteTimeMillis\":1751273085870,\"muteTimeMillis\":1751273126422,\"durationMillis\":40552,\"speakingDurationMillis\":30839,\"mergedSpeakingDurationMillis\":38855,\"speakingFragments\":[{\"startTimeMillis\":1751273086814,\"stopTimeMillis\":1751273088414},{\"startTimeMillis\":1751273091218,\"stopTimeMillis\":1751273095623},{\"startTimeMillis\":1751273096022,\"stopTimeMillis\":1751273096422},{\"startTimeMillis\":1751273096822,\"stopTimeMillis\":1751273097222},{\"startTimeMillis\":1751273098024,\"stopTimeMillis\":1751273102032},{\"startTimeMillis\":1751273102433,\"stopTimeMillis\":1751273110845},{\"startTimeMillis\":1751273111246,\"stopTimeMillis\":1751273114851},{\"startTimeMillis\":1751273116457,\"stopTimeMillis\":1751273118056},{\"startTimeMillis\":1751273118461,\"stopTimeMillis\":1751273121659},{\"startTimeMillis\":1751273122058,\"stopTimeMillis\":1751273124464},{\"startTimeMillis\":1751273124863,\"stopTimeMillis\":1751273125669}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751273086814,\"stopTimeMillis\":1751273125669}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "THYCwJcBTCFTK6VRBBZ1",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273047173,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-120.500\",\"roomSid\":null,\"speakerId\":\"PA_snes9Qw22Hxz\",\"speakerName\":\"a.karacelik\",\"unmuteTimeMillis\":1751273011763,\"muteTimeMillis\":1751273047163,\"durationMillis\":35400,\"speakingDurationMillis\":29636,\"mergedSpeakingDurationMillis\":34443,\"speakingFragments\":[{\"startTimeMillis\":1751273012317,\"stopTimeMillis\":1751273012718},{\"startTimeMillis\":1751273013119,\"stopTimeMillis\":1751273016321},{\"startTimeMillis\":1751273016721,\"stopTimeMillis\":1751273022334},{\"startTimeMillis\":1751273022732,\"stopTimeMillis\":1751273024332},{\"startTimeMillis\":1751273024734,\"stopTimeMillis\":1751273029939},{\"startTimeMillis\":1751273030340,\"stopTimeMillis\":1751273032343},{\"startTimeMillis\":1751273032744,\"stopTimeMillis\":1751273034748},{\"startTimeMillis\":1751273035148,\"stopTimeMillis\":1751273036751},{\"startTimeMillis\":1751273037552,\"stopTimeMillis\":1751273040355},{\"startTimeMillis\":1751273040757,\"stopTimeMillis\":1751273043556},{\"startTimeMillis\":1751273044357,\"stopTimeMillis\":1751273046760}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751273012317,\"stopTimeMillis\":1751273046760}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "_3YBwJcBTCFTK6VReBCb",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751273011373,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-120.500\",\"roomSid\":null,\"speakerId\":\"PA_yqua8FjvdL9i\",\"speakerName\":\"r.aydin\",\"unmuteTimeMillis\":1751272977306,\"muteTimeMillis\":1751273011363,\"durationMillis\":34057,\"speakingDurationMillis\":20043,\"mergedSpeakingDurationMillis\":24446,\"speakingFragments\":[{\"startTimeMillis\":1751272979468,\"stopTimeMillis\":1751272980274},{\"startTimeMillis\":1751272980669,\"stopTimeMillis\":1751272985076},{\"startTimeMillis\":1751272985477,\"stopTimeMillis\":1751272986278},{\"startTimeMillis\":1751272986678,\"stopTimeMillis\":1751272987879},{\"startTimeMillis\":1751272988681,\"stopTimeMillis\":1751272989081},{\"startTimeMillis\":1751272989483,\"stopTimeMillis\":1751272991885},{\"startTimeMillis\":1751272992286,\"stopTimeMillis\":1751272993090},{\"startTimeMillis\":1751272993490,\"stopTimeMillis\":1751272997095},{\"startTimeMillis\":1751272997495,\"stopTimeMillis\":1751272998297},{\"startTimeMillis\":1751272998699,\"stopTimeMillis\":1751273000701},{\"startTimeMillis\":1751273001101,\"stopTimeMillis\":1751273003914}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751272979468,\"stopTimeMillis\":1751273003914}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "t3YAwJcBTCFTK6VR7AqE",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751272975511,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-120.500\",\"roomSid\":null,\"speakerId\":\"PA_snes9Qw22Hxz\",\"speakerName\":\"a.karacelik\",\"unmuteTimeMillis\":1751272928304,\"muteTimeMillis\":1751272975500,\"durationMillis\":47196,\"speakingDurationMillis\":38453,\"mergedSpeakingDurationMillis\":44067,\"speakingFragments\":[{\"startTimeMillis\":1751272929795,\"stopTimeMillis\":1751272932201},{\"startTimeMillis\":1751272932602,\"stopTimeMillis\":1751272933403},{\"startTimeMillis\":1751272933803,\"stopTimeMillis\":1751272937408},{\"startTimeMillis\":1751272937809,\"stopTimeMillis\":1751272944226},{\"startTimeMillis\":1751272944627,\"stopTimeMillis\":1751272949432},{\"startTimeMillis\":1751272949831,\"stopTimeMillis\":1751272952636},{\"startTimeMillis\":1751272953035,\"stopTimeMillis\":1751272956639},{\"startTimeMillis\":1751272957040,\"stopTimeMillis\":1751272958245},{\"startTimeMillis\":1751272958654,\"stopTimeMillis\":1751272959444},{\"startTimeMillis\":1751272960245,\"stopTimeMillis\":1751272962248},{\"startTimeMillis\":1751272962648,\"stopTimeMillis\":1751272963449},{\"startTimeMillis\":1751272963850,\"stopTimeMillis\":1751272969059},{\"startTimeMillis\":1751272969459,\"stopTimeMillis\":1751272973061},{\"startTimeMillis\":1751272973462,\"stopTimeMillis\":1751272973862}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751272929795,\"stopTimeMillis\":1751272973862}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "A3YAwJcBTCFTK6VRLwMT",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "recordType": {
+      "category": "AUDIO",
+      "subType": "FULL_SPEAKING_EVENT"
+    },
+    "originator": "audio-statistics",
+    "timestamp": 1751272927012,
+    "payload": "{\"room\":\"68595775-a6e7-2002-dc66-c6b000000000-1751272444971-120.500\",\"roomSid\":null,\"speakerId\":\"PA_yqua8FjvdL9i\",\"speakerName\":\"r.aydin\",\"unmuteTimeMillis\":1751272885151,\"muteTimeMillis\":1751272927001,\"durationMillis\":41850,\"speakingDurationMillis\":32052,\"mergedSpeakingDurationMillis\":39257,\"speakingFragments\":[{\"startTimeMillis\":1751272886533,\"stopTimeMillis\":1751272888135},{\"startTimeMillis\":1751272888938,\"stopTimeMillis\":1751272890540},{\"startTimeMillis\":1751272891742,\"stopTimeMillis\":1751272894152},{\"startTimeMillis\":1751272894546,\"stopTimeMillis\":1751272895348},{\"startTimeMillis\":1751272896547,\"stopTimeMillis\":1751272897347},{\"startTimeMillis\":1751272897748,\"stopTimeMillis\":1751272902155},{\"startTimeMillis\":1751272902557,\"stopTimeMillis\":1751272903759},{\"startTimeMillis\":1751272904158,\"stopTimeMillis\":1751272906160},{\"startTimeMillis\":1751272906561,\"stopTimeMillis\":1751272915777},{\"startTimeMillis\":1751272916578,\"stopTimeMillis\":1751272921385},{\"startTimeMillis\":1751272922186,\"stopTimeMillis\":1751272922588},{\"startTimeMillis\":1751272922990,\"stopTimeMillis\":1751272925790}],\"mergedSpeakingFragments\":[{\"startTimeMillis\":1751272886533,\"stopTimeMillis\":1751272925790}],\"configuredMergeThresholdMillis\":3500}"
+  },
+  {
+    "id": "oHX4v5cBTCFTK6VR1Kug",
+    "parentId": "68595775-a6e7-2002-dc66-c6b000000000-1751272444971",
+    "userId": "a.karacelik",
+    "recordType": {
+      "category": "LIFECYCLE",
+      "subType": "START_AUDIO_PLAN"
+    },
+    "originator": "audio-session-manager",
+    "timestamp": 1751272445105,
+    "payload": "{\"planId\":\"68595775-a6e7-2002-dc66-c6b000000000\",\"planDescription\":{\"title\":\"Test I - Small but Full Chain Test\",\"description\":\"Do not touch it!\",\"allowedGroups\":[\"eurocontrol\"],\"frequencies\":[{\"name\":\"130.600\"},{\"name\":\"120.500\"}],\"sectors\":[{\"sectorName\":\"sector_120.500\",\"frequencies\":{\"mainFrequency\":\"120.500\",\"otherFrequencies\":null}},{\"sectorName\":\"sector_130.600\",\"frequencies\":{\"mainFrequency\":\"130.600\",\"otherFrequencies\":null}}],\"units\":[{\"unitName\":\"unit_120.500\",\"sectors\":[\"sector_120.500\"]},{\"unitName\":\"unit_130.600\",\"sectors\":[\"sector_130.600\"]}],\"positions\":[{\"name\":\"ATCO1\",\"displayName\":\"Controller One\",\"displayStyle\":\"VCS\",\"allowedUserRoles\":[\"SUPERVISOR\",\"ATCO\"],\"controllingUnits\":[\"unit_120.500\"],\"pilotingSector\":null,\"tags\":{\"group\":\"SECTOR_A\"}},{\"name\":\"ATCO2\",\"displayName\":\"Controller Two\",\"displayStyle\":\"VCS\",\"allowedUserRoles\":[\"SUPERVISOR\",\"ATCO\"],\"controllingUnits\":[\"unit_120.500\"],\"pilotingSector\":null,\"tags\":{\"group\":\"SECTOR_A\"}},{\"name\":\"Pilot1\",\"displayName\":\"Pilot One\",\"displayStyle\":\"RADIO_PANEL\",\"allowedUserRoles\":[\"PILOT\",\"SUPERVISOR\"],\"controllingUnits\":[\"unit_130.600\",\"unit_120.500\"],\"pilotingSector\":null,\"tags\":{\"group\":\"SECTOR_C\"}}],\"intercoms\":[{\"roomDescription\":{\"name\":\"general_intercom\"},\"positions\":[\"ATCO2\",\"ATCO1\"]}],\"allowedCalls\":[{\"name\":\"Call to Controller One\",\"caller\":\"ATCO2\",\"possibleCalls\":[{\"destination\":\"POSITION\",\"callableRole\":\"ATCO1\"}]},{\"name\":\"Call to Controller Two\",\"caller\":\"ATCO1\",\"possibleCalls\":[{\"destination\":\"POSITION\",\"callableRole\":\"ATCO2\"}]}],\"enableRecording\":false,\"enableSupervisionIntercom\":true},\"status\":{\"executionStatus\":{\"executionStatus\":\"RUNNING\",\"lastChanged\":1751272445099},\"recordingStatus\":{\"recordingStatus\":\"NOTRECORDING\",\"lastChanged\":0}},\"connectedUsers\":[],\"lastUpdateBy\":\"a.karacelik\"}"
+  }
+]
