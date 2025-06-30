@@ -68,14 +68,14 @@ function onMouseleaveTimeline () {
   }
 minT.value = 0
 maxT.value = 10
-onMounted(() => {
-  inputCode.value = "..."})
+onMounted(() => {})
 
 
 const example = () => {
   inputCode.value = JSON.stringify(exampleData.value, null, 2)
+  processJSON();
 }
-const logCode = () => {
+const processJSON = () => {
   error.value = ''
   timelineEvents.value = [] // clear previous events
 
@@ -151,8 +151,9 @@ const logCode = () => {
 
 <template>
   <div class="p-4">
-    <textarea v-model="inputCode" rows="10" class="w-full p-2 border rounded" placeholder="Paste your code here..."></textarea>
-    <button @click="logCode" class="">
+    <textarea v-model="inputCode" rows="10" placeholder="Paste your code here..."></textarea>
+    <br>
+    <button @click="processJSON" class="">
       Parse
     </button>
     <button @click="example" class="">
@@ -184,6 +185,7 @@ const logCode = () => {
     @mousemoveTimeline="onMousemoveTimeline"
     @mouseleaveTimeline="onMouseleaveTimeline"
     @changeViewport="viewport = $event"
+    class="map"
   >
 
   </Timeline>
@@ -220,6 +222,8 @@ const logCode = () => {
 
     :deep(.item)  {
       pointer-events: none;
+      border-radius: 0px;
+      height: 0.85em;
     }
   }
 </style>
