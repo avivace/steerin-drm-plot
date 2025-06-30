@@ -27,7 +27,7 @@ jobs:
         run: yarn install --frozen-lockfile
 
       - name: Build project
-        run: yarn build-only
+        run: yarn build-only --base=steerin-drm-plot/
 
       - name: Store final build
         uses: actions/upload-pages-artifact@v3
